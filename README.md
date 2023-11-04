@@ -11,3 +11,5 @@ We can create a tmux config file in either of these locations:
 Make sure to install TPM first. Just copy the below command to install TPM in your system.
 `git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm`
 
+### Credits
+Most of the config is adapted from https://github.com/dreamsofcode-io/tmux
